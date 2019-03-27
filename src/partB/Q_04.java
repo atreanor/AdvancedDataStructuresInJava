@@ -1,9 +1,9 @@
-package assign_02;
+package partB;
 
 /*
  * Class to calculate & return the difference between two integers
  */
-public class PartB_04 {
+public class Q_04 {
 	
 	public static void main(String[] args) {
 		// invoke Difference on parameters

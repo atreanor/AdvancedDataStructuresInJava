@@ -1,9 +1,9 @@
-package assign_02;
+package partB;
 
 /*
  * Class to calculate & return the maximum of two integers
  */
-public class PartB_03 {
+public class Q_03 {
 	
 	public static void main(String[] args) {
 		// invoke MaxInt on parameters

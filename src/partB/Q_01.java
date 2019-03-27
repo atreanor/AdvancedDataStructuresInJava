@@ -1,9 +1,9 @@
-package assign_02;
+package partB;
 
 /*
  * Class to increment input integer by 1
  */
-public class PartB_01 {
+public class Q_01 {
 	
 	public static void main(String[] args) {
 		// invoke Increment with parameter 5

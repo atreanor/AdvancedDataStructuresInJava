@@ -1,9 +1,9 @@
-package assign_02;
+package partB;
 
 /*
  * Class to calculate & return the average of two integers
  */
-public class PartB_02 {
+public class Q_02 {
 	
 	public static void main(String[] args) {
 		// invoke Average method on parameters
